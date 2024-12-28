@@ -3,7 +3,7 @@
 client_id = "ef69a1647b171bdebb57a6218c256d03"
 name = "learning-app"
 handle = "learning-app-121"
-application_url = "https://gabriel-excellent-other-amateur.trycloudflare.com"
+application_url = "https://fabulous-hats-mighty-real.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://gabriel-excellent-other-amateur.trycloudflare.com/auth/callback",
-  "https://gabriel-excellent-other-amateur.trycloudflare.com/auth/shopify/callback",
-  "https://gabriel-excellent-other-amateur.trycloudflare.com/api/auth/callback"
+  "https://fabulous-hats-mighty-real.trycloudflare.com/auth/callback",
+  "https://fabulous-hats-mighty-real.trycloudflare.com/auth/shopify/callback",
+  "https://fabulous-hats-mighty-real.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
